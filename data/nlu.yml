@@ -16,6 +16,7 @@ nlu:
     - goodevening
     - good afternoon
     - hello my friend
+    - whats up
 - intent: goodbye
   examples: |
     - good afternoon
@@ -62,6 +63,7 @@ nlu:
     - so so perfect
     - so good
     - so perfect
+    - quiero comprar
 - intent: mood_unhappy
   examples: |
     - my day was horrible
